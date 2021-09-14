@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **harshmangat0007@gmail.com**
 
