@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript & React**
 
 - 📫 How to reach me **harshmangat0007@gmail.com**
 
@@ -30,7 +30,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmangat&show_icons=true&locale=en" alt="harshmangat" /></p> -->
 <!-- ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmangat&theme=blue-green&show_icons=true) -->
 ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmangat&theme=blue-green&show_icons=true&hide=contribs,prs)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmangat&" alt="harshmangat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmangat&" alt="harshmangat" theme="algolia"/></p>
 
 
 
