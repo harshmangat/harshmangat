@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Features feedback](https://github.com/harshmangat/product-features.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Redux**
 
 - 👯 I’m looking to collaborate on **open-source**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Redux**
 
 - 💬 Ask me about **JavaScript & React**
 
