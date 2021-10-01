@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Features feedback](https://github.com/harshmangat/product-features.git)
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **open-source**
 
