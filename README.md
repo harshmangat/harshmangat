@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Redux**
 
-- 💬 Ask me about **JavaScript, React & Nextjs**
+- 💬 Ask me about  **JavaScript, React & Nextjs**
 
 - 📫 How to reach me **harshmangat0007@gmail.com**
 
